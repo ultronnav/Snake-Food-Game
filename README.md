@@ -9,5 +9,7 @@ Each time the snake eats an apple its body grows. The snake must avoid the walls
 Development environment
 
 System environment: Windows
+
 Development tools: Eclipse , JDK1.8
+
 Tools : Java Swing , AWT
